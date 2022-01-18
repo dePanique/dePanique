@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dePanique
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JS in Yandex Practicum
+- 💞️ I’m looking to collaborate on any stuff around JS.
+- 📫 How to reach me ... you can mail me de.simpl@yandex.ru
